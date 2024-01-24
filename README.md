@@ -9,7 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: DoVietTung 
-* Student ID: 22BI13452
+* Student Name: Name
+* Student ID: Not-Vietnamese
   
 
